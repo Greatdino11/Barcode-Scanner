@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCBXh2qP0F5mx22YiVy_-VwUx4-4knHWZ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374401240506</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GreatDino11.Barcode-Scanner</string>
+	<key>PROJECT_ID</key>
+	<string>barcode-scanner-b7a16</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barcode-scanner-b7a16.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374401240506:ios:c7f3e590144e216c5da183</string>
+</dict>
+</plist>
